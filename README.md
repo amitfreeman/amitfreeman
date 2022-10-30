@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Amit P
 - 👀 I’m interested in coding, learning, explore, getting to know how real world problems are solved
-- 🌱 I’m currently learning C++, DB internals
-- 💞️ I’m looking to collaborate on - as of now no, but soon.
+- 🌱 I’m currently learning C++, DS, DB internals
+- 💞️ I’m looking to collaborate on - as of now no, but soon. 
+    : Follow my repository CppSwissKnife for C++ sutdy material.
 - 📫 How to reach me - Telegram: @Amitpar90
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitfreeman&langs_count=10&theme=tokyonight)
