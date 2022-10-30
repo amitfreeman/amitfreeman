@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Paropkari
-- 👀 I’m interested in coding, learning, explore, getting to know how real world problems are solved
+- 👀 I’m interested in coding, learning, exploring & getting to know how real world problems are solved
 - 🌱 I’m currently learning C++, DS, DB internals
 - 💞️ I’m looking to collaborate on - as of now no, but soon. 
     : Follow my repository CppSwissKnife for C++ sutdy material.
